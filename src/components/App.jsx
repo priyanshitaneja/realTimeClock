@@ -1,26 +1,12 @@
-import React, {useState} from "react";
+import React from "react";
+import Clock from "./Clock";
 
 function App() {
+  console.log("App rendered");
 
-
-  let [time, setTime] = useState(new Date().toLocaleTimeString());
-  
-
-  function currentTime() {
-    return setTime(
-      time= new Date().toLocaleTimeString()
-      );
-
-  }
-  setInterval(currentTime, 1000);
-
- 
-
-  
   return (
     <div className="container">
-      <h1>{time}</h1>
-      {/* <button onClick={currentTime}></button> */}
+      <Clock />
     </div>
   );
 }
