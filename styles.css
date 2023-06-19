@@ -1,0 +1,23 @@
+body {
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  color: #fff;
+  width: 100vw;
+  margin: 0;
+  background-color: #356888;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+.container {
+  width: 500px;
+  margin: 200px auto;
+}
+
+.clock {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
