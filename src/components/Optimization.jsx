@@ -4,8 +4,8 @@ const Optimization = () => {
   console.log("Optimization content rerendered");
   return (
     <div className="optimization">
-      <h3 className="optimisation-heading">Optimization:</h3>
-      <ul className="optimisation-list">
+      <h3>Optimization:</h3>
+      <ul>
         <li>Hours and minutes don't re-render when seconds change.</li>
         <li>
           Hours don't re-render when minutes change, seconds obviously do.
