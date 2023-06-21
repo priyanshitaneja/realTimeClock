@@ -21,3 +21,18 @@ h1 {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.optimization {
+  margin: 150px auto 50px;
+}
+
+.optimisation-heading {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.optimisation-list li {
+  padding: 10px 0;
+  line-height: 1.5;
+  text-align: left;
+}
