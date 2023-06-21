@@ -26,12 +26,12 @@ h1 {
   margin: 150px auto 50px;
 }
 
-.optimisation-heading {
+h3 {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
-.optimisation-list li {
+ul li {
   padding: 10px 0;
   line-height: 1.5;
   text-align: left;
