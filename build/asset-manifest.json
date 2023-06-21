@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/realTimeClock/static/js/main.d66dfbfc.chunk.js",
-    "main.js.map": "/realTimeClock/static/js/main.d66dfbfc.chunk.js.map",
+    "main.js": "/realTimeClock/static/js/main.ba1b728d.chunk.js",
+    "main.js.map": "/realTimeClock/static/js/main.ba1b728d.chunk.js.map",
     "runtime-main.js": "/realTimeClock/static/js/runtime-main.f93478f7.js",
     "runtime-main.js.map": "/realTimeClock/static/js/runtime-main.f93478f7.js.map",
     "static/js/2.d115c5d8.chunk.js": "/realTimeClock/static/js/2.d115c5d8.chunk.js",
     "static/js/2.d115c5d8.chunk.js.map": "/realTimeClock/static/js/2.d115c5d8.chunk.js.map",
     "index.html": "/realTimeClock/index.html",
-    "precache-manifest.19ae1d786c46c10702f66b82a07b26c4.js": "/realTimeClock/precache-manifest.19ae1d786c46c10702f66b82a07b26c4.js",
+    "precache-manifest.7c6160a0872b216943965ae162fbe51e.js": "/realTimeClock/precache-manifest.7c6160a0872b216943965ae162fbe51e.js",
     "service-worker.js": "/realTimeClock/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.f93478f7.js",
     "static/js/2.d115c5d8.chunk.js",
-    "static/js/main.d66dfbfc.chunk.js"
+    "static/js/main.ba1b728d.chunk.js"
   ]
 }
